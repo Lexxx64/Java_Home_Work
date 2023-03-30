@@ -1,5 +1,6 @@
 package Lesson1;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class HomeWork {
@@ -17,6 +18,8 @@ public class HomeWork {
         System.out.println("Введите год");
         int year = s.nextInt();
         System.out.println(isLeapYear(year));
+
+        printArray(createArray(5, 15));
 //
 //        int[][] array = new int[4][4]; // [[1, 0, 0, 0], [0, 1, 0, 0], [0, 0, 1, x], [0, 0, 0, 1]]
 //        int x = array[2][3];
@@ -46,8 +49,18 @@ public class HomeWork {
     }
 
     private static int[] createArray(int len, int initialValue) {
-        // должен вернуть массив длины len, каждое значение которого равно initialValue
-        return null;
+        int[] myArray = new int[len];
+        for (int i = 0; i < myArray.length; i++){
+            myArray[i] = initialValue;
+        }
+        return myArray;
+    }
+
+    private static void printArray(int[] myArray){
+        for (int i = 0; i < myArray.length; i++){
+            System.out.print(myArray[i] + " ");
+        }
+        System.out.println();
     }
 
 /**
