@@ -27,7 +27,7 @@ public class HomeWork {
         int[] arr = {1, 5, 3, 2, 11, 4, 5, 2, 4, 8, 9, 1};
         printArray(multiplyArray(arr)); // 2 10 6 4 11 8 10 4 8 8 9 2
 
-        newArray(5);
+        newArray(11);
 
     }
 
