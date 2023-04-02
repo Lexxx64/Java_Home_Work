@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f6c7861-3225-479f-a523-32902cbe1b27" name="Changes" comment="task1 analysis">
-      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson2/FileSystemDemo.java" afterDir="false" />
+    <list default="true" id="2f6c7861-3225-479f-a523-32902cbe1b27" name="Changes" comment="file txt write &quot;TEXT&quot; count 100">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/HomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3/HomeWork.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FileSystemDemo">
+  <component name="RunManager" selected="Application.Lesson3.HomeWork">
     <configuration name="FileSystemDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson2.FileSystemDemo" />
       <module name="untitled" />
@@ -83,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson1.Main" />
+    <configuration name="Lesson3.HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson3.HomeWork" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson1.*" />
+          <option name="PATTERN" value="Lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lesson3.HomeWork" />
         <item itemvalue="Application.FileSystemDemo" />
         <item itemvalue="Application.Lesson2.HomeWork" />
         <item itemvalue="Application.Seminar" />
         <item itemvalue="Application.HomeWork" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680374854891</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="file txt write &quot;TEXT&quot; count 100">
+      <created>1680446518624</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680446518624</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -172,6 +178,7 @@
     <MESSAGE value="completed tasks" />
     <MESSAGE value="solved task1" />
     <MESSAGE value="task1 analysis" />
-    <option name="LAST_COMMIT_MESSAGE" value="task1 analysis" />
+    <MESSAGE value="file txt write &quot;TEXT&quot; count 100" />
+    <option name="LAST_COMMIT_MESSAGE" value="file txt write &quot;TEXT&quot; count 100" />
   </component>
 </project>
