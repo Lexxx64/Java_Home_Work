@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f6c7861-3225-479f-a523-32902cbe1b27" name="Changes" comment="solved task1">
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/HomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/Seminar.java" afterDir="false" />
+    <list default="true" id="2f6c7861-3225-479f-a523-32902cbe1b27" name="Changes" comment="task1 analysis">
+      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/FileSystemDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2/Seminar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Seminar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,20 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Seminar">
+  <component name="RunManager" selected="Application.FileSystemDemo">
+    <configuration name="FileSystemDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.FileSystemDemo" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson1.HomeWork" />
       <module name="untitled" />
@@ -99,9 +111,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileSystemDemo" />
+        <item itemvalue="Application.Lesson2.HomeWork" />
         <item itemvalue="Application.Seminar" />
         <item itemvalue="Application.HomeWork" />
-        <item itemvalue="Application.Lesson2.HomeWork" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -143,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680370238963</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="task1 analysis">
+      <created>1680374854891</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680374854891</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -151,6 +171,7 @@
     <MESSAGE value="the print and createArray method was created" />
     <MESSAGE value="completed tasks" />
     <MESSAGE value="solved task1" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved task1" />
+    <MESSAGE value="task1 analysis" />
+    <option name="LAST_COMMIT_MESSAGE" value="task1 analysis" />
   </component>
 </project>
