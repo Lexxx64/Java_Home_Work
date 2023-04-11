@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f6c7861-3225-479f-a523-32902cbe1b27" name="Changes" comment="file txt write &quot;TEXT&quot; count 100">
+    <list default="true" id="2f6c7861-3225-479f-a523-32902cbe1b27" name="Changes" comment="method remove implemented">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lesson3/HomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3/HomeWork.java" afterDir="false" />
     </list>
@@ -169,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680446518624</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="method remove implemented">
+      <created>1680454899982</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680454899982</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -179,6 +186,7 @@
     <MESSAGE value="solved task1" />
     <MESSAGE value="task1 analysis" />
     <MESSAGE value="file txt write &quot;TEXT&quot; count 100" />
-    <option name="LAST_COMMIT_MESSAGE" value="file txt write &quot;TEXT&quot; count 100" />
+    <MESSAGE value="method remove implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="method remove implemented" />
   </component>
 </project>
