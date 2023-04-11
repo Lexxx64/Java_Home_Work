@@ -2,7 +2,6 @@ package Lesson3;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.regex.Pattern;
 
 public class HomeWork {
     public static void main(String[] args) {
