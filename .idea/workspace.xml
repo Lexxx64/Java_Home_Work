@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f6c7861-3225-479f-a523-32902cbe1b27" name="Changes" comment="remove Pattern">
-      <change afterPath="$PROJECT_DIR$/src/Lesson4/HomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson4/Seminar.java" afterDir="false" />
+    <list default="true" id="2f6c7861-3225-479f-a523-32902cbe1b27" name="Changes" comment="the &quot;revert&quot;, &quot;print&quot; solution has been created">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson4/HomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/HomeWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson4/Seminar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/Seminar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lesson4.HomeWork">
+  <component name="RunManager" selected="Application.Lesson4.Seminar">
     <configuration name="FileSystemDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson2.FileSystemDemo" />
       <module name="untitled" />
@@ -96,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Seminar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2.Seminar" />
+    <configuration name="Lesson4.Seminar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson4.Seminar" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson2.*" />
+          <option name="PATTERN" value="Lesson4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lesson4.Seminar" />
         <item itemvalue="Application.Lesson4.HomeWork" />
         <item itemvalue="Application.Lesson3.HomeWork" />
         <item itemvalue="Application.FileSystemDemo" />
         <item itemvalue="Application.Lesson2.HomeWork" />
-        <item itemvalue="Application.Seminar" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681198924142</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="the &quot;revert&quot;, &quot;print&quot; solution has been created">
+      <created>1682273851946</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682273851946</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -203,6 +210,7 @@
     <MESSAGE value="file txt write &quot;TEXT&quot; count 100" />
     <MESSAGE value="method remove implemented" />
     <MESSAGE value="remove Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove Pattern" />
+    <MESSAGE value="the &quot;revert&quot;, &quot;print&quot; solution has been created" />
+    <option name="LAST_COMMIT_MESSAGE" value="the &quot;revert&quot;, &quot;print&quot; solution has been created" />
   </component>
 </project>
