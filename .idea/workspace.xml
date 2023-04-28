@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f6c7861-3225-479f-a523-32902cbe1b27" name="Changes" comment="the &quot;revert&quot;, &quot;print&quot; solution has been created">
+    <list default="true" id="2f6c7861-3225-479f-a523-32902cbe1b27" name="Changes" comment="rewrote the program">
+      <change afterPath="$PROJECT_DIR$/src/Lesson5/Seminar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson4/HomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/HomeWork.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lesson4/Seminar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/Seminar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lesson4.Seminar">
+  <component name="RunManager" selected="Application.HomeWork">
     <configuration name="FileSystemDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson2.FileSystemDemo" />
       <module name="untitled" />
@@ -57,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson2.HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2.HomeWork" />
+    <configuration name="HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson5.HomeWork" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson2.*" />
+          <option name="PATTERN" value="Lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork" />
         <item itemvalue="Application.Lesson4.Seminar" />
         <item itemvalue="Application.Lesson4.HomeWork" />
         <item itemvalue="Application.Lesson3.HomeWork" />
         <item itemvalue="Application.FileSystemDemo" />
-        <item itemvalue="Application.Lesson2.HomeWork" />
       </list>
     </recent_temporary>
   </component>
@@ -198,8 +198,26 @@
       <option name="project" value="LOCAL" />
       <updated>1682273851946</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="rewrote the program">
+      <created>1682345276418</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682345276418</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="four tasks have been solved" />
@@ -211,6 +229,7 @@
     <MESSAGE value="method remove implemented" />
     <MESSAGE value="remove Pattern" />
     <MESSAGE value="the &quot;revert&quot;, &quot;print&quot; solution has been created" />
-    <option name="LAST_COMMIT_MESSAGE" value="the &quot;revert&quot;, &quot;print&quot; solution has been created" />
+    <MESSAGE value="rewrote the program" />
+    <option name="LAST_COMMIT_MESSAGE" value="rewrote the program" />
   </component>
 </project>
