@@ -26,6 +26,7 @@ public class HomeWork {
         for (char c : parentheses.toCharArray()) {
             if (bracket.containsValue(c)) {
                 cash.push(c);
+
             } else if (bracket.containsKey(c)) {
                 if (cash.isEmpty() || cash.pop() != bracket.get(c)) {
                     return false;
